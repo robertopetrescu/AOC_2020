@@ -12,3 +12,17 @@ C:\Users\Roberto\source\repos\ConsoleApp3\Day3\obj\Debug\netcoreapp3.1\Day3.dll
 C:\Users\Roberto\source\repos\ConsoleApp3\Day3\obj\Debug\netcoreapp3.1\Day3.pdb
 C:\Users\Roberto\source\repos\ConsoleApp3\Day3\obj\Debug\netcoreapp3.1\Day3.genruntimeconfig.cache
 C:\Users\Roberto\source\repos\ConsoleApp3\Day3\bin\Debug\netcoreapp3.1\input.txt
+C:\Users\Roberto\source\repos\AoC_2020\Day3\bin\Debug\netcoreapp3.1\Day3.exe
+C:\Users\Roberto\source\repos\AoC_2020\Day3\bin\Debug\netcoreapp3.1\input.txt
+C:\Users\Roberto\source\repos\AoC_2020\Day3\bin\Debug\netcoreapp3.1\Day3.deps.json
+C:\Users\Roberto\source\repos\AoC_2020\Day3\bin\Debug\netcoreapp3.1\Day3.runtimeconfig.json
+C:\Users\Roberto\source\repos\AoC_2020\Day3\bin\Debug\netcoreapp3.1\Day3.runtimeconfig.dev.json
+C:\Users\Roberto\source\repos\AoC_2020\Day3\bin\Debug\netcoreapp3.1\Day3.dll
+C:\Users\Roberto\source\repos\AoC_2020\Day3\bin\Debug\netcoreapp3.1\Day3.pdb
+C:\Users\Roberto\source\repos\AoC_2020\Day3\obj\Debug\netcoreapp3.1\Day3.csprojAssemblyReference.cache
+C:\Users\Roberto\source\repos\AoC_2020\Day3\obj\Debug\netcoreapp3.1\Day3.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\source\repos\AoC_2020\Day3\obj\Debug\netcoreapp3.1\Day3.AssemblyInfoInputs.cache
+C:\Users\Roberto\source\repos\AoC_2020\Day3\obj\Debug\netcoreapp3.1\Day3.AssemblyInfo.cs
+C:\Users\Roberto\source\repos\AoC_2020\Day3\obj\Debug\netcoreapp3.1\Day3.dll
+C:\Users\Roberto\source\repos\AoC_2020\Day3\obj\Debug\netcoreapp3.1\Day3.pdb
+C:\Users\Roberto\source\repos\AoC_2020\Day3\obj\Debug\netcoreapp3.1\Day3.genruntimeconfig.cache

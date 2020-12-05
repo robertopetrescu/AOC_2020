@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Roberto\\source\\repos\\ConsoleApp3\\Day1\\Day1.csproj": {}
+    "C:\\Users\\Roberto\\source\\repos\\AoC_2020\\Day1\\Day1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Roberto\\source\\repos\\ConsoleApp3\\Day1\\Day1.csproj": {
+    "C:\\Users\\Roberto\\source\\repos\\AoC_2020\\Day1\\Day1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Roberto\\source\\repos\\ConsoleApp3\\Day1\\Day1.csproj",
+        "projectUniqueName": "C:\\Users\\Roberto\\source\\repos\\AoC_2020\\Day1\\Day1.csproj",
         "projectName": "Day1",
-        "projectPath": "C:\\Users\\Roberto\\source\\repos\\ConsoleApp3\\Day1\\Day1.csproj",
+        "projectPath": "C:\\Users\\Roberto\\source\\repos\\AoC_2020\\Day1\\Day1.csproj",
         "packagesPath": "C:\\Users\\Roberto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Roberto\\source\\repos\\ConsoleApp3\\Day1\\obj\\",
+        "outputPath": "C:\\Users\\Roberto\\source\\repos\\AoC_2020\\Day1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Roberto\\AppData\\Roaming\\NuGet\\NuGet.Config",

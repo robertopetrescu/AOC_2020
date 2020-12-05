@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Roberto\\source\\repos\\ConsoleApp3\\Day4\\Day4.csproj",
+      "projectUniqueName": "C:\\Users\\Roberto\\source\\repos\\AoC_2020\\Day4\\Day4.csproj",
       "projectName": "Day4",
-      "projectPath": "C:\\Users\\Roberto\\source\\repos\\ConsoleApp3\\Day4\\Day4.csproj",
+      "projectPath": "C:\\Users\\Roberto\\source\\repos\\AoC_2020\\Day4\\Day4.csproj",
       "packagesPath": "C:\\Users\\Roberto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Roberto\\source\\repos\\ConsoleApp3\\Day4\\obj\\",
+      "outputPath": "C:\\Users\\Roberto\\source\\repos\\AoC_2020\\Day4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Roberto\\AppData\\Roaming\\NuGet\\NuGet.Config",

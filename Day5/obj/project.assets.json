@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Roberto\\source\\repos\\AoC_2020\\Day3\\Day3.csproj",
-      "projectName": "Day3",
-      "projectPath": "C:\\Users\\Roberto\\source\\repos\\AoC_2020\\Day3\\Day3.csproj",
+      "projectUniqueName": "C:\\Users\\Roberto\\source\\repos\\AoC_2020\\Day5\\Day5.csproj",
+      "projectName": "Day5",
+      "projectPath": "C:\\Users\\Roberto\\source\\repos\\AoC_2020\\Day5\\Day5.csproj",
       "packagesPath": "C:\\Users\\Roberto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Roberto\\source\\repos\\AoC_2020\\Day3\\obj\\",
+      "outputPath": "C:\\Users\\Roberto\\source\\repos\\AoC_2020\\Day5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Roberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
