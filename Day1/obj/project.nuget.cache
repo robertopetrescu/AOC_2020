@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yMhDcXWRcndCxgID1mX3QaoWg6o/J5hw9cQCBveta30q6m8NYcFYeKVqgvwTuPZx3mAwgEOQgVVFshLhR0I94A==",
+  "dgSpecHash": "hy4YcUqUI6TAaGXFLp6/sNa3E73bz7GX9Mh+lTCOTJGuPRhHnn2hDtpgbLMSpdd+CmGaaaQBd/AuNWdGvodwlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Roberto\\source\\repos\\ConsoleApp3\\Day1\\Day1.csproj",
+  "projectFilePath": "C:\\Users\\Roberto\\source\\repos\\AoC_2020\\Day1\\Day1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
